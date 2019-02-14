@@ -6,7 +6,7 @@
   "datapackage_name": "ssb-ledige-stillinger",
   "id": "56b3d5f1-0915-4ff1-881b-0c1e89780137",
   "license": "The MIT License\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n",
-  "name": "Min offentlige pakke",
+  "name": "SSB Ledige stillinger",
   "path": "https://raw.githubusercontent.com/datasett/ssb-ledige-stillinger/master/",
   "readme": "# Ledige stillinger\nAntall stillingar på eit referansetidspunkt hvert kvartal, og antall ledige stillingar i prosent av alle stillingar.\n\nkilde: [SSB](https://www.ssb.no/arbeid-og-lonn/statistikker/ledstill)",
   "resources": [
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "title": "ssb-ledige-stillinger",
+  "title": "SSB Ledige Stillinger",
   "updated": "2019-02-14",
   "version": "0.0.1",
   "views": [
