@@ -1,0 +1,13 @@
+{
+  "index_connections": {
+    "elastic_host": "",
+    "index": "odata"
+  },
+  "bucket_storage_connections": {
+    "Github": {
+      "publish": "True",
+      "host": "https://raw.githubusercontent.com"
+    }
+  },
+  "package_name": "ssb-ledige-stillinger"
+}
