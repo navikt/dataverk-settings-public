@@ -1,25 +1,23 @@
 {
-  "id": "15ed2c82-9cd0-4ffd-bb5d-368c58521464",
+  "id": "",
   "version": "0.0.1",
-  "created": "2018-01-10",
-  "updated": "2019-01-10",
-  "public": "false",
-  "path": "https://raw.githubusercontent.com/datasett/template-github/master/",
-  "datapackage_name": "template-github",
+  "created": "",
+  "updated": "",
+  "public": "",
+  "path": "",
+  "datapackage_name": "",
   "publisher": "",
   "author": "",
-  "title": "template-github",
+  "title": "",
   "description": "",
   "status": "unpublished",
   "sources": [],
-  "content_type": "json",
-  "language": "no",
+  "content_type": "",
+  "language": "",
   "distributions": [],
   "keywords": [],
-  "theme": [
-    "template"
-  ],
+  "theme": [],
   "geo": [],
-  "bucket_name": "default-bucket-nav-opendata",
-  "last_updated": "2019-01-16"
+  "bucket_name": "",
+  "last_updated": ""
 }
